@@ -1,1 +1,2 @@
-# Prácticas de Seguridad y Protección de Sistemas Informáticos (UGR)
+# SPSI
+Prácticas de Seguridad y Protección de Sistemas Informáticos (UGR)
